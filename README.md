@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Valentin!;Frontend+Developer+%26+CS+Student" />
-</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Valentin;A+passionate+frontend+developer"
+    alt="Typing SVG" />
+</p>
 
 ---
 
