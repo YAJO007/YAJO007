@@ -19,11 +19,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" width="50" />
 </p>
 
-### **Frameworks & Libraries**
+### Frameworks & Libraries
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
 </p>
