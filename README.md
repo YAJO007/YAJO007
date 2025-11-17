@@ -1,10 +1,10 @@
 <!-- TITLE -->
 <h1 align="center" style="color:#ff2e2e; animation: fadeIn 1.5s ease-in-out;">
-  Hi 👋, I'm wasdasadsasd
+  Valentin
 </h1>
 
 <h3 align="center" style="color:#ff4c4c; animation: slideDown 1.5s ease;">
-  A passionate frontend developer from India
+  A passionate frontend developer from 
 </h3>
 
 <!-- CONNECT -->
