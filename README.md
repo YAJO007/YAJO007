@@ -38,8 +38,7 @@
 ### **OS & Security**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" />
-  <img src="https://cdn.simpleicons.org/metasploit" width="50" />
-  <img src="https://cdn.simpleicons.org/tryhackme" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" width="55" />
 </p>
 
 ### **Tools**
