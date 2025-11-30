@@ -28,12 +28,12 @@
     <sub>Components | Hooks | UI/UX</sub>
   </td>
   <td align="center" width="25%">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/><br/>
     <b>Backend (Node.js)</b><br/>
     <sub>REST API | Express | Auth</sub>
   </td>
   <td align="center" width="25%">
-    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/><br/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br/>
     <b>Python & Automation</b><br/>
     <sub>Scripts | Tools | CLI</sub>
   </td>
