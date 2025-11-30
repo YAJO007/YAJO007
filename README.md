@@ -38,7 +38,7 @@
 ### **OS & Security**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/yourname/yourrepo/main/assets/kali.png](https://raw.githubusercontent.com/sundowndev/cover-run/master/kali.png" width="60" />
+  <img src="https://raw.githubusercontent.com/sundowndev/cover-run/master/kali.png" width="60" />
 </p>
 
 ### **Tools**
