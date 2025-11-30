@@ -33,12 +33,12 @@
     <sub>REST API | Express | Auth</sub>
   </td>
   <td align="center" width="25%">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/><br/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/><br/>
     <b>Python & Automation</b><br/>
     <sub>Scripts | Tools | CLI</sub>
   </td>
   <td align="center" width="25%">
-    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/><br/>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100"><br/>
     <b>Kali & Security</b><br/>
     <sub>Nmap | Basic Offense Labs</sub>
   </td>
