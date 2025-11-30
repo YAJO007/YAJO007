@@ -15,7 +15,7 @@
 </div>
 
 <!-- Glowing Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy-black.png" width="100%">
 
 <br/>
 
