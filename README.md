@@ -1,19 +1,26 @@
 <!-- Animated Header - Grass Green Theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Valentin%20(YAJ0007)&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💻%20Frontend%20Developer%20|%20Cybersecurity%20Learner%20|%20Kali%20Linux%20Enjoyer%20💻&descAlignY=60&descSize=20&descAlign=50&color=0:2e026d,50:6d28d9,100:c084fc" />
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 
 </div>
+
+
+
 
 <div align="center">
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Frontend+Development;Node.js+%26+REST+API;Security+Research+%26+Kali+Linux;Learning+Nmap+%26+Offensive+Tools;Building+Cool+Projects+for+Fun" alt="Typing SVG" />
 
+
+
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Valen
 
@@ -50,6 +57,11 @@ const val = new Val();
 await val.grind();
 ```
 
+
+
+
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -57,6 +69,14 @@ await val.grind();
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
+<br/>
+
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+</div>
 
 <br/>
 
@@ -90,13 +110,10 @@ await val.grind();
 
 
 
-<br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
-</div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<br/>
+
 
 ---
 
