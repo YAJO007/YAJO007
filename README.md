@@ -93,4 +93,7 @@ class Valen {
 const val = new Val();
 await val.grind();
 ```
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02d5a390-b263-43a4-981c-fbdc18c8b902" width="160" />
+- I skip documentation
+<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300">
+<br><br>
+
