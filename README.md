@@ -23,7 +23,7 @@
 <table>
 <tr>
   <td align="center" width="25%">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br/>
+    <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100"><br/>
     <b>Frontend (React)</b><br/>
     <sub>Components | Hooks | UI/UX</sub>
   </td>
