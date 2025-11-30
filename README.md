@@ -35,7 +35,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Val
 
 ```typescript
-class Val {
+class Valen {
   constructor() {
     this.name = "Valentin (Val)";
     this.role = "Frontend Dev & Security Enthusiast";
