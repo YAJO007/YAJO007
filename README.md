@@ -2,6 +2,11 @@
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Valentin%20(YAJ0007)&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💻%20Frontend%20Developer%20|%20Cybersecurity%20Learner%20|%20Kali%20Linux%20Enjoyer%20💻&descAlignY=60&descSize=20&descAlign=50&color=0:2e026d,50:6d28d9,100:c084fc&font=Space%20Mono"
 />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
 </div>
 
