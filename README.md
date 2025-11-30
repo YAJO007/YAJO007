@@ -62,3 +62,33 @@
 <p align="center" style="font-family:Fira Code; color:#FF2E2E; font-size:18px;">
   🚀 “Code. Break. Build. Repeat.”  
 </p>
+class EthicalHacker {
+  constructor() {
+    this.name = "Ren (MrWhite4939)";
+    this.role = "Offensive Security Specialist";
+    this.location = "Tokyo, Japan 🇯🇵";
+    this.expertise = [
+      "Penetration Testing",
+      "Exploit Development", 
+      "Security Research",
+      "Red Team Operations",
+      "Bug Hunter"
+    ];
+  }
+
+  async hunt_vulnerabilities(): Promise<void> {
+    while (true) {
+      await this.scan();
+      await this.exploit();
+      await this.report();
+      console.log("🎯 Another system secured!");
+    }
+  }
+
+  get_philosophy(): string {
+    return "Think like an attacker, defend like a guardian 🛡️";
+  }
+}
+
+const hacker = new EthicalHacker();
+await hacker.hunt_vulnerabilities();
