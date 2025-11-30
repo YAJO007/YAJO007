@@ -17,14 +17,6 @@
 
 <br/>
 
-<!-- Profile Views Counter with Animation -->
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=YAJ0007&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/YAJ0007?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/YAJ0007?label=STARS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Stars"/>
-  
-</div>
 
 <br/>
 
