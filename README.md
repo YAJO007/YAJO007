@@ -4,12 +4,6 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Penetration+Testing;Security+Research;Exploit+Development;Red+Team+Operations;Bug+Hunter" alt="Typing SVG" />
 
-</div>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
 
 <!-- Profile Views Counter with Animation -->
 <div align="center">
