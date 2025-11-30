@@ -102,18 +102,6 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## 🗣️ Languages I Speak
-
-<div align="center">
-
-| Language | Fluency Level | Proficiency |
-|:---:|:---:|:---:|
-| 🇬🇧 **English** | ▰▰▰▰▰▰▰▰▰▰ | **Professional** |
-| 🇯🇵 **Japanese** | ▰▰▰▰▰▰▰▰▰▰ | **Native** |
-| 🇮🇶 **Arabic** | ▰▰▰▰▱▱▱▱▱▱ | **Beginner** |
-| 🇮🇷 **Persian** | ▰▰▱▱▱▱▱▱▱▱ | **Basic** |
-
-</div>
 
 ---
 
